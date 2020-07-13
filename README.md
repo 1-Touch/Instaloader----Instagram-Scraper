@@ -1,7 +1,5 @@
 Instaloader is a tool to download pictures (or videos) along with their captions and other metadata from Instagram.
 
-Travis-CI Build Status Instaloader PyPI Project Page Supported Python Versions MIT License Arch User Repository Package Contributor Count PyPI Download Count
-
 With Python installed, do:
 
 $ pip3 install instaloader
